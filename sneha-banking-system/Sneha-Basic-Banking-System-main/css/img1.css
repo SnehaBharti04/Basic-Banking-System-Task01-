@@ -1,0 +1,18 @@
+.im{
+	transition: width 2s, height 4s;
+}
+.bank{
+	
+	transition: width 2s, height 4s;
+}
+.bank:hover{
+	width:500px;
+	height:350px;
+	
+}
+.im:hover{
+	opacity:0.5;
+	transform: scale(1.1);
+	 width: 250px;
+     height: 250px;
+}
